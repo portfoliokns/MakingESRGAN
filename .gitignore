@@ -1,0 +1,8 @@
+data/*/*.png
+data/*/*.JPEG
+venv
+__pycache__
+*.pth
+*.png
+*.jpg
+making_video
